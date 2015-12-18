@@ -1,4 +1,4 @@
-##Starter kit for nodejs express app
+##Samplde nodejs with youtubeapi
 
 ##Installation
 	
@@ -6,6 +6,7 @@
 	npm start -> start nodemon
 
 ##confuguration under src/config
+	set apiKey
 
 ##to start npm start
 
