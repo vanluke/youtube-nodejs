@@ -1,4 +1,4 @@
-##Samplde nodejs with youtubeapi
+##Sample nodejs with youtubeapi
 
 ##Installation
 	
