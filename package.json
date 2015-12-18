@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Starter kit for nodejs express server with es2016",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lukasz Gonciarz",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.3.13",
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "nodemon": "^1.8.1",
+    "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "requestify": "^0.1.17",
+    "convict": "^1.0.2",
+    "express": "^4.13.3"
+  }
+}
